@@ -1,6 +1,8 @@
 # json_from_xml
 Tool for converting an EML XML file to Metapype's JSON format, suitable for use as an ezEML template.
 
+The following instructions apply to Linux and MacOS systems. Windows instructions will be forthcoming.
+
 To install:
 - Open a terminal window
 - Create a directory and cd to that directory
